@@ -4,7 +4,7 @@
 
 
 
-Your introduction including your college 
+Your introduction and your photo including your college 
 #### Your photo will be used for future events 😊
 
 
