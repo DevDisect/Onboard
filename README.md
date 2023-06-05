@@ -8,9 +8,9 @@ I also have a passion for problem-solving and programming. I find it thrilling t
 To sum it up, I'm a second-year B.Tech student who enjoys reading, playing football, and solving problems through programming. I can't wait to see what the future holds for me!
 
 
-My Role in DivDisect
+My Role in DevDisect
 
-I'm thrilled to be a part of DivDisect, a web development community dedicated to simplifying the web development process. Our main focus is to bridge the gap between developers and students, fostering collaboration and knowledge sharing. As a Developer Advocate, I am excited to connect with both developers and students, promoting growth and making web development more accessible to all. Let's empower the next generation of web developers together!
+I'm thrilled to be a part of DevDisect, a web development community dedicated to simplifying the web development process. Our main focus is to bridge the gap between developers and students, fostering collaboration and knowledge sharing. As a Developer Advocate, I am excited to connect with both developers and students, promoting growth and making web development more accessible to all. Let's empower the next generation of web developers together!
 
 
 
